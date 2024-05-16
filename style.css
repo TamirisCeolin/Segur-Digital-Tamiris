@@ -44,5 +44,16 @@ body {
 #campo-senha{
     background-color: var(--fundo-senha);
     border: none;
-    color: var();
+    color: var(--banco);
+    font-family: var(--roboto-mono);
+    font-size: 40px;
 }
+
+#campo-senha-focus{
+    outline: none;
+}
+
+.conteudo{
+    max-width: 1200px;
+}
+
