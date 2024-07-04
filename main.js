@@ -38,7 +38,7 @@ function geraSenha(){
         senha = senha + letrasMaiusculas[numeroAleatorio];    
     }
     campoSenha.value = senha;
-    }
+}
 
 
 
